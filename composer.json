@@ -1,5 +1,5 @@
 {
-    "name": "JoseNoIP/laravel-qr-code",
+    "name": "josenoip/laravel-qr-code",
     "description": "QR Code Generator for PHP wrapper for Laravel",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "werneckbh/qr-code": "^2.1"
+        "josenoip/qr-code": "^2.1"
     },
     "autoload": {
         "psr-4": {
