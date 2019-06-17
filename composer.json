@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "josenoip/qr-code": "^2.1"
+        "josenoip/qr-code": "^0.0.1"
     },
     "autoload": {
         "psr-4": {
